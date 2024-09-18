@@ -1,0 +1,210 @@
+
+body{
+    margin: 0;
+    font-family: Georgia,  serif;
+}
+
+.logo img{
+    height: 107px;
+    margin-top: -6px;
+}
+
+.container{
+    display: flex;
+    height: 50px;
+}
+
+.start{
+   display: flex; 
+   align-items: center;
+   width: 80%;
+   overflow: hidden;
+}
+
+.iconeUeser{
+    display: inline;
+}
+
+.iconeUeser img{
+    width: 43px;
+    background-color: white;
+}
+
+.search img{
+    width: 43px;
+    background-color: white;
+}
+
+.search span{
+    color: grey;
+}
+
+.iconeUser{
+    width: 20%;
+    
+}
+
+.account{
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+
+}
+
+.account span{
+    color: grey;
+}
+
+.account img{
+    width: 50px;
+}
+
+.accountIcon img{
+    width: 32px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+main{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.menu{
+    display: flex;
+}
+.member{
+    margin: 2rem;
+}
+
+.member img{
+    width: 15px;
+}
+
+.access{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.curtain{
+        display: flex;
+        padding-top: 10px;
+        border-bottom: rgba(204, 197, 197, 0.901) solid 0.5px;
+        padding-bottom: 10px;
+        justify-content: space-around;
+        font-family: inherit;
+        font-size: 17px;
+        color: rgb(67, 65, 65);
+        position: sticky;
+        top: 0;
+        background-color: white;
+        z-index: 9;
+
+    
+}
+
+.section{
+    display: flex;
+    gap: 25px;
+}
+
+
+#staff{
+    width: 51%;
+    margin: 3em;
+}
+
+.userStaff img{
+    width: 20px;
+}
+
+.bloccosix{
+    display: flex;
+    width: 700px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.paragrafo{
+    color: grey;
+}
+.meme img{
+    width: 130px;
+    margin-left: 170px;
+}
+
+.user{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.iconaAlt{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.icone{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.bloccoDex{
+    display: flex;
+    flex-direction: column;
+    padding-left: 68px;
+}
+
+.globale{
+    display: flex;
+}
+
+
+.person{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.readingList h2{
+    font-size: 10px;
+}
+
+.element{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    gap: 20px;
+}
+
+.element nav{
+    background-color: white;
+    padding: 11px;
+    border-radius: 112px;
+}
+
+
+
+.more{
+    color: green;
+}
+
+.people{
+    display: flex;
+    flex-direction: column;
+}
+
+.suggestion{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+
+
